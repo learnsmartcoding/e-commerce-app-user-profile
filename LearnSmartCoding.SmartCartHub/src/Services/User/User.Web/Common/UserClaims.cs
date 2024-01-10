@@ -41,8 +41,8 @@ namespace User.Web.Common
 
         public string GetCurrentUserId()
         {
-            //return "2n3o4p5q-6r7s-8t9u-10v11w12x13y14";
-            return GetClaimInfo("objectidentifier");
+            return "f1de6a40-f843-4b71-8adf-cb58ebe2307a";
+            //return GetClaimInfo("objectidentifier");
         }
     }
 }
